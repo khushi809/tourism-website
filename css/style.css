@@ -275,7 +275,7 @@ section {
 
 .explore-content {
   font-family: var(--ff-lora);
-  color: whitesmoke;
+  color: rgb(43, 39, 39);
   display: flex;
   align-items: center;
   flex-direction: column;
@@ -292,7 +292,7 @@ section {
   inset: 0;
   z-index: -1;
   display: block;
-  background: rgba(0, 0, 0, 0.2);
+  background: #ebeb89;
   backdrop-filter: blur(2.5px);
   border-radius: 0.5rem;
 }
@@ -309,7 +309,7 @@ section {
 }
 
 .explore-content p {
-  color: rgb(221, 221, 221);
+  color: rgb(12, 11, 11);
   max-width: 65ch;
   line-height: 1.5;
   text-align: left;
